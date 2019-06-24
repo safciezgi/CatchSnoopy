@@ -16,6 +16,7 @@ import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
 
+    int deneme;
     TextView TimeText, ScoreText;
     int score;
     ImageView imageView1;
